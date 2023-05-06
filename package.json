@@ -1,0 +1,22 @@
+{
+  "name": "my-nestjs-app",
+  "version": "1.0.0",
+  "description": "nestjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Algpym26/my-nestjs-app.git"
+  },
+  "author": "agp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Algpym26/my-nestjs-app/issues"
+  },
+  "homepage": "https://github.com/Algpym26/my-nestjs-app#readme",
+  "dependencies": {
+    "foo": "^1.0.0"
+  }
+}
